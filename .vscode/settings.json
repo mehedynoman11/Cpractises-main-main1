@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "SECONDARY_DIAGONAL.C": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "climits": "cpp",
+        "vector": "cpp",
+        "iosfwd": "cpp"
+    }
+}
