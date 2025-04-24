@@ -12,8 +12,8 @@ using namespace std;
 // }
 
 
-void fun(int *&p){
-	p = NULL;
+void fun(int *p){
+	*p = 20;
 }
 int main() {
 	int val = 10;
