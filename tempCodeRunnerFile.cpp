@@ -1,10 +1,2 @@
-void fun(int *p){
-// 	*p = 20;
-// }
-// int main() {
-// 	int val = 10;
-// 	int *ptr = &val;
-// 	fun(ptr);
-// 	cout<<*ptr<<endl;
-// 	return 0;
-// }
+ } else if (pos == 0) {
+        insert_at_head(head, val);
